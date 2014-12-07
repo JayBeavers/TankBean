@@ -1,4 +1,4 @@
-TankBot
+TankBean
 =======
 
 A repository for the TankBot sumo prototype from RobotsConf 2014
