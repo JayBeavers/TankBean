@@ -1,7 +1,7 @@
 TankBean
 =======
 
-A repository for the TankBot sumo prototype from RobotsConf 2014
+A repository for the TankBean sumo prototype from RobotsConf 2014
 
 Based on the LightBlue Bean, Zumo chassis, the ZumoMotors library.
 
