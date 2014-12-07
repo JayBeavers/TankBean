@@ -1,0 +1,24 @@
+{
+  "name": "TankBean",
+  "version": "0.0.0",
+  "description": "",
+  "main": "tankBean.js",
+  "dependencies": {
+    "serialport": "^1.4.6",
+    "xbox-controller": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayBeavers/TankBot.git"
+  },
+  "author": "Jay Beavers",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/JayBeavers/TankBot/issues"
+  },
+  "homepage": "https://github.com/JayBeavers/TankBot"
+}
